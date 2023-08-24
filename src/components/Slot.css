@@ -1,0 +1,32 @@
+/* .slot {
+    width: 100px;
+    height: 100px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    transition: transform 1s ease-in-out;
+  }
+  
+  .slot.spinning {
+    animation: spin 2s linear infinite;
+  }
+
+  .slot-machine {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: 20px;
+  }
+
+  @keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */
