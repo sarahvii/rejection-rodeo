@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSpring, animated } from 'react-spring';
 import { BsFillTelephoneFill } from 'react-icons/bs';
-import { GiTumbleweed } from 'react-icons/gi';
+import { GiBabyBottle, GiTumbleweed } from 'react-icons/gi';
 import { TbGhost2 } from 'react-icons/tb';
 import { GiCricket } from 'react-icons/gi';
 import { TbMoodCry } from 'react-icons/tb';
@@ -21,6 +21,7 @@ const iconMap = {
     Jackpot: <BsFillTelephoneFill size={50} />, 
     Ghosted: <TbGhost2 size={50} />, 
     Rejected: <TbMoodCry size={50} />,
+    Junior: <GiBabyBottle size={50} />,
     Crickets: <GiCricket size={50} />, 
   };
 

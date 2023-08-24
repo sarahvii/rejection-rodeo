@@ -81,6 +81,10 @@
   .slot.matched {
     background-color: palevioletred; 
   }
+
+  .slot.rejected {
+    background-color: red;
+  }
   
   /* Keyframes for the spinning animation */
   @keyframes spin {
